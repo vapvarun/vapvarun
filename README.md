@@ -46,6 +46,16 @@ Modern Web   →  Astro, Laravel, Tailwind CSS, TypeScript, headless WordPress
 
 ---
 
+## By the Numbers
+
+| | |
+|--|--|
+| 🟩 **8,705** contributions in the last year | 📅 **304** active days out of 365 |
+| 📦 **288** public repositories | 🔌 **100+** published plugins & themes |
+| ⭐ Peak day: **195 contributions** | 👥 Contributor to **@wbcomdesigns · @buddynext · @brndle-themes** |
+
+---
+
 ## GitHub Stats
 
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vapvarun&show_icons=true&theme=dark&hide_border=true&count_private=true)
