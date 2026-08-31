@@ -1,19 +1,21 @@
-# Hi, I'm Varun 👋
+# Wbcom Designs — Full-Stack Product Engineering Studio
 
-**AI Automation & MCP Developer · WordPress Expert**
+**WordPress · Community · AI · Headless · Laravel**
 
-I build MCP servers and AI agents that give tools like Claude and ChatGPT real operational access to a platform, and the WordPress systems they connect to. 10+ years shipping production plugins, themes, and my own product line used across hundreds of thousands of sites. Top Rated Plus on Upwork.
+Personal GitHub of **Varun Dubey ([@vapvarun](https://github.com/vapvarun)), founder of [Wbcom Designs](https://wbcomdesigns.com)**. Since 2013 we have built WordPress plugins, themes, and community platforms used across hundreds of thousands of sites, and today we also ship AI infrastructure, MCP servers, headless Astro frontends, and Laravel SaaS. We do not just use these platforms. We build the alternatives to them.
 
+[![Wbcom Designs](https://img.shields.io/badge/wbcomdesigns.com-1a1a2e?style=flat&logo=wordpress&logoColor=white)](https://wbcomdesigns.com)
 [![Website](https://img.shields.io/badge/vapvarun.com-000000?style=flat&logo=safari&logoColor=white)](https://vapvarun.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/varundubey)
-[![Wbcom Designs](https://img.shields.io/badge/wbcomdesigns.com-1a1a2e?style=flat&logo=wordpress&logoColor=white)](https://wbcomdesigns.com)
 [![Twitter](https://img.shields.io/badge/@vapvarun-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vapvarun)
 
 ---
 
-## What I'm Building
+## What We're Building
 
 ### MCP Servers
+
+We build and publish production Model Context Protocol servers that give AI tools like Claude and ChatGPT real, controlled access to a platform.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
@@ -29,9 +31,9 @@ Each ships with proper tool schemas, auth that respects your existing identity p
 
 ---
 
-## Products I Build & Run
+## Products We Build & Run
 
-My own product line, in production and maintained today. Every one is a live proof of concept for the work I do.
+Our own product line, in production and maintained today. Every one is a live proof of concept for the work we do for clients.
 
 | Product | What it is |
 |---------|-----------|
@@ -50,7 +52,7 @@ My own product line, in production and maintained today. Every one is a live pro
 
 ---
 
-## What I Do
+## What We Do
 
 ```
 AI Agents & MCP     →  Custom MCP servers (STDIO + HTTP), Claude Agent SDK + OpenAI agents,
@@ -73,35 +75,37 @@ Modern Web   →  Astro, Laravel, Tailwind CSS, TypeScript, headless WordPress
 
 ---
 
-## WordPress
+## Our Work in WordPress
 
 - **100+ published plugins and themes** — WooCommerce, BuddyPress, BuddyBoss, LearnDash, multisite
 - **BuddyX** — one of the most popular BuddyPress themes on WordPress.org
 - **Woo Sell Services** — widely used service-selling plugin for WooCommerce
-- Active **BuddyPress contributor** and **WordCamp speaker**
+- Active **BuddyPress contributors** and **WordCamp speakers**
 
 ---
 
 ## By the Numbers
 
+Founder [@vapvarun](https://github.com/vapvarun) on GitHub:
+
 | | |
 |--|--|
 | 🟩 **8,705** contributions in the last year | 📅 **304** active days out of 365 |
 | 📦 **288** public repositories | 🔌 **100+** published plugins & themes |
-| ⭐ Peak day: **195 contributions** | 👥 Contributor to **@wbcomdesigns · @buddynext · @brndle-themes** |
+| ⭐ Peak day: **195 contributions** | 👥 Across **@wbcomdesigns · @buddynext · @brndle-themes** |
 
 ---
 
 ## GitHub Stats
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vapvarun&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vapvarun&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vapvarun&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## Work With Me
+## Work With Us
 
-- **Freelance:** [upwork.com/freelancers/varundubey](https://www.upwork.com/freelancers/varundubey)
-- **Agency:** [wbcomdesigns.com](https://wbcomdesigns.com)
+- **Agency:** [wbcomdesigns.com](https://wbcomdesigns.com) — full-stack product engineering
+- **Upwork:** [Top Rated Plus](https://www.upwork.com/freelancers/varundubey)
 - **Site:** [vapvarun.com](https://vapvarun.com)
