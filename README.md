@@ -87,9 +87,8 @@ Founder [@vapvarun](https://github.com/vapvarun) on GitHub:
 
 | | |
 |--|--|
-| 🟩 **8,705** contributions in the last year | 📅 **304** active days out of 365 |
-| 📦 **288** public repositories | 🔌 **100+** published plugins & themes |
-| ⭐ Peak day: **195 contributions** | 👥 Across **@wbcomdesigns · @buddynext · @brndle-themes** |
+| 🟩 **38,000+** contributions in the last year | 📦 **140+** public repositories |
+| 🔌 **100+** published plugins & themes | 👥 Across **@wbcomdesigns · @buddynext · @brndle-themes** |
 
 ---
 
