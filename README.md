@@ -1,4 +1,4 @@
-# Wbcom Designs — Full-Stack Product Engineering Studio
+# Wbcom Designs - Full-Stack Product Engineering Studio
 
 **WordPress · Community · AI · Headless · Laravel**
 
@@ -21,11 +21,8 @@ We build and publish production Model Context Protocol servers that give AI tool
 |---------|-------------|-------|
 | [wp-malware-cleanup-mcp](https://github.com/vapvarun/wp-malware-cleanup-mcp) | Clean malware from WordPress sites via SSH and WP-CLI. Batch operations for 20+ sites. | ⭐ 23 |
 | [wpcs-mcp-server](https://github.com/vapvarun/wpcs-mcp-server) | WordPress Coding Standards enforcement via MCP | ⭐ 14 |
-| [image-annotator-mcp](https://github.com/vapvarun/image-annotator-mcp) | Annotate screenshots with markers, arrows, and callouts | ⭐ 5 |
 | [wp-astro-mcp](https://github.com/vapvarun/wp-astro-mcp) | Migrate WordPress sites to Astro. Multi-site support, batch processing, GitHub publishing. | ⭐ 4 |
 | [buddypress-mcp](https://github.com/vapvarun/buddypress-mcp) | MCP server for BuddyPress platform management | ⭐ 2 |
-| [basecamp-mcp-server](https://github.com/vapvarun/basecamp-mcp-server) | Basecamp integration via MCP | — |
-| [zoho-desk-mcp-server](https://github.com/vapvarun/zoho-desk-mcp-server) | Zoho Desk integration via MCP | — |
 
 Each ships with proper tool schemas, auth that respects your existing identity provider, error handling, and cost controls, tested against real Claude clients.
 
@@ -77,9 +74,9 @@ Modern Web   →  Astro, Laravel, Tailwind CSS, TypeScript, headless WordPress
 
 ## Our Work in WordPress
 
-- **100+ published plugins and themes** — WooCommerce, BuddyPress, BuddyBoss, LearnDash, multisite
-- **BuddyX** — one of the most popular BuddyPress themes on WordPress.org
-- **Woo Sell Services** — widely used service-selling plugin for WooCommerce
+- **100+ published plugins and themes** - WooCommerce, BuddyPress, BuddyBoss, LearnDash, multisite
+- **BuddyX** - one of the most popular BuddyPress themes on WordPress.org
+- **Woo Sell Services** - widely used service-selling plugin for WooCommerce
 - Active **BuddyPress contributors** and **WordCamp speakers**
 
 ---
@@ -96,16 +93,8 @@ Founder [@vapvarun](https://github.com/vapvarun) on GitHub:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vapvarun&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vapvarun&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Work With Us
 
-- **Agency:** [wbcomdesigns.com](https://wbcomdesigns.com) — full-stack product engineering
+- **Agency:** [wbcomdesigns.com](https://wbcomdesigns.com) - full-stack product engineering
 - **Upwork:** [Top Rated Plus](https://www.upwork.com/freelancers/varundubey)
 - **Site:** [vapvarun.com](https://vapvarun.com)
